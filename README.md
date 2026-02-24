@@ -42,7 +42,7 @@ A comprehensive, multi-tenant edge security platform built with FastAPI, Redis, 
 
 1. **Clone and setup:**
 ```bash
-git clone <repository>
+git clone https://github.com/pukarplayz/Advanced-rate-limit-handler/
 cd rate-limit-system
 ```
 
