@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-Development runner script for the Rate Limit Service
-"""
 import uvicorn
 import os
 import sys
